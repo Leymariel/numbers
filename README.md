@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Lawrence Leymarie
+2. Student ID: 2370408
+3. Email: leymarie@chapman.edu
+4. Class: 02
 5. Assignment: numbers 
 
 ## Application Purpose
